@@ -1,6 +1,6 @@
 
 
-# rat-found-a-job
+# The rat
 
 A Python game where the player must:
 
